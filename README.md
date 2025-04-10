@@ -40,7 +40,6 @@ Predecir el interés en seguros de vehículo entre clientes de salud utilizando 
 ## 👨‍💼 Autor
 
 Carlos Jesús González Cerrud  
-ASSA Compañía de Seguros
 
 ## 📂 Resultado
 
